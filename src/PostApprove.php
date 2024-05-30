@@ -1,5 +1,5 @@
 <?php
-
+namespace Faheem2407\PostApproval;
 
 class PostApprove
 {
